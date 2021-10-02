@@ -1,5 +1,5 @@
 # Collaborative filtering
-Collaborative filtering is a databased recommendation method built on the assumption that '<b>people with similar rating habits are alike and alike people like the same things</b>' in the case of <i>user based</i> collaborative filtering and on the assumption '<b>If someone likes something, that someone will also like something similar</b>'.
+Collaborative filtering is a databased recommendation method built on the assumption that '<b>people with similar rating habits are alike and alike people like the same things</b>' in the case of <i>user-based</i> collaborative filtering and on the assumption '<b>If someone likes something, that someone will also like something similar</b>' in the case of <i>item-based</i> collaborative filtering.
 
 This project is a suboptimal, but simpel implementation of collaborative filtering in python.
 
