@@ -1,5 +1,5 @@
 import numpy as np
-from distance_measures import Ln_distance
+from tools.distance_measures import Ln_distance
 
 def Ln_similarity(Ra, Rm, n=2):
     """
