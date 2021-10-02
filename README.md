@@ -4,9 +4,9 @@ Collaborative filtering is a databased recommendation method built on the assump
 This project is a suboptimal, but simpel implementation of collaborative filtering in python.
 
 ### Requirements
-python >= 3
-tabulate==0.8.9
-numpy==1.19.3
+python >= 3 </br>
+tabulate==0.8.9 </br>
+numpy==1.19.3 </br>
 
 ### How to use
 1. Create a new folder on your local machine
