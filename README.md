@@ -12,6 +12,7 @@ numpy==1.19.3 </br>
 1. Create a new folder on your local machine
 2. Download this project directly from the github
 3. Go to <i>main.py</i> and enter your data - can be from a CSV or just directly hardcoded in or w/e
+    - but note that non-rated movies should have "ø" or "Ø" as a placeholder
 4. Run <i>python main.py</i>
 
 
